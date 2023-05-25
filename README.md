@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Olá! Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/"> Victor da Silva </a>
+    <a href="https://www.linkedin.com/in/victorsilva-teixeira/"> Victor da Silva </a>
   </h1>
   
 </div>
